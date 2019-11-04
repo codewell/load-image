@@ -1,0 +1,23 @@
+{
+  "name": "@codewell/load-image",
+  "version": "0.0.1",
+  "description": "Load image in javascript with promise",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/load-image.git"
+  },
+  "keywords": [],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/load-image/issues"
+  },
+  "homepage": "https://github.com/codewell/load-image#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
