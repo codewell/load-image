@@ -17,3 +17,5 @@ const loadImage = imageUrl => new Promise(
     image.src = imageUrl;
   }
 );
+
+module.exports = loadImage;
