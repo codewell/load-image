@@ -1,6 +1,6 @@
 {
   "name": "@codewell/load-image",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Load image in javascript with promise",
   "main": "src/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "https://github.com/codewell/load-image/issues"
   },
   "homepage": "https://github.com/codewell/load-image#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^24.9.0"
   }
 }
