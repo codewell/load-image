@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/codewell/load-image#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.0.1"
   }
 }
